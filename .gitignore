@@ -1,19 +1,7 @@
-# Video files
-*.mp4
-*.avi
-*.mov
-*.mkv
-
-# Dataset folders
+submission.csv
+test_public.csv
+train_labels.csv
+*.h5
 train/
 test/
-
-# Model files
-*.h5
-
-# Generated outputs
-submission.csv
-
-# Virtual environment
 venv/
-__pycache__/
