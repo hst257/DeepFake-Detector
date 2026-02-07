@@ -8,6 +8,7 @@ test/
 # Models & outputs
 *.h5
 submission.csv
+*.mp4
 
 # Python cache
 __pycache__/
