@@ -1,6 +1,14 @@
+# Virtual environment
 venv/
+
+# Training & test data (videos)
+train/
+test/
+
+# Models & outputs
 *.h5
 submission.csv
+
+# Python cache
 __pycache__/
 *.pyc
-.DS_Store
