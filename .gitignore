@@ -1,15 +1,19 @@
-# Virtual environment
-venv/
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
 
-# Training & test data (videos)
+# Dataset folders
 train/
 test/
 
-# Models & outputs
+# Model files
 *.h5
-submission.csv
-*.mp4
 
-# Python cache
+# Generated outputs
+submission.csv
+
+# Virtual environment
+venv/
 __pycache__/
-*.pyc
