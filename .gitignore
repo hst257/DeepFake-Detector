@@ -1,0 +1,6 @@
+venv/
+*.h5
+submission.csv
+__pycache__/
+*.pyc
+.DS_Store
